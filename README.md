@@ -11,7 +11,7 @@
 
 <body>
     <header class="container text-center">
-        <img src="img/avatar-perfil.png" alt="avatar da Fernanda" class="rounded-circle" width="150" height="150" srcset="">
+        <img src="img/avatar-perfil.png" alt="avatar do mateuss" class="rounded-circle" width="150" height="150" srcset="">
         <p class="lead">Eu o mateus_</p>
         <h1></h1>
         <p>sou aluno da escola joao antunes alexandre, do terceiro ano
